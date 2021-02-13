@@ -15,6 +15,6 @@ Dê ⭐️ se gostou deste projeto!
 
 # 📝Licença
 
-Feito com 🖤 por [@ pedro-drosa] (https://github.com/pedro-drosa)
+Feito com 🖤 por [@ pedro-drosa](https://github.com/pedro-drosa)
 
-Este projeto é licenciado pelo ** MIT **. Consulte o arquivo [LICENSE] (https://github.com/pedro-drosa/gradient--login-page/blob/master/LICENSE) para obter mais detalhes.
+Este projeto é licenciado pelo ** MIT **.

@@ -17,4 +17,4 @@ Dê ⭐️ se gostou deste projeto!
 
 Feito com 🖤 por [@ pedro-drosa](https://github.com/pedro-drosa)
 
-Este projeto é licenciado pelo ** MIT ** .
+Este projeto é licenciado pelo ** MIT ** licensed.

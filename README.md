@@ -1,20 +1,21 @@
 # Conceitos-do-ReactJS
 Desafio 03: Bootcamp - GoStack - Rocketseat 🚀
 
-## ⚙️ tecnologias
+## ⚙️ technologies
 
-Desenvolvido com:
+Developed with :
 
-- ReactJS
+- NodeJs
 - JavaScript
-- brincadeira
+- Express
+- jest
 
-## 😃 Mostre seu apoio
+## 😃 Show your support
 
-Dê ⭐️ se gostou deste projeto!
+Give ⭐️ if you liked this project!
 
-# 📝Licença
+# 📝License
 
-Feito com 🖤 por [@ pedro-drosa](https://github.com/pedro-drosa)
+Feito com 🖤 by [@pedro-drosa](https://github.com/pedro-drosa)
 
-Este projeto é licenciado pelo ** MIT ** licensed.
+This project is **MIT** licensed.
